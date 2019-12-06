@@ -1,2 +1,7 @@
-# HelloWorld
-Practice repo using GitHub for dummies
+# A little insight into Olugbenga Oguntokun
+Hi Everyone
+
+## My Career Passions
+
+
+## My Hobbies
