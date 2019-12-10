@@ -6,3 +6,6 @@ Hi Everyone
 
 
 ## My Hobbies
+
+## My Fav Books
+- Technical Analysis of Financial Markets by John Murphy
